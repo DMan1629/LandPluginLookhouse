@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/david/Desktop/MC/LandPlugin.jar"/>
+	<classpathentry kind="lib" path="D:/MC/MC/plugins/1.16.4/Vault.jar"/>
+	<classpathentry kind="lib" path="D:/MC/MC/plugins/1.16.4/FastAsyncWorldEdit-1.16-560.jar"/>
+	<classpathentry kind="lib" path="D:/MC/MC/spigot-1.16.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

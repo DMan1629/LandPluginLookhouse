@@ -1,0 +1,10 @@
+main: me.DMan16.LandPluginLookhouse.Lookhouse
+name: LandPluginLookhouse
+version: 1.0
+author: DMan16
+depend: [Vault,LandPlugin]
+
+api-version: 1.16
+
+commands:
+  lookhouse:
