@@ -1,5 +1,6 @@
 # LandPluginLookhouse
 Lookhouse command addon for LandPlugin (custom plugin)
+
 Video showcase:
 [![LandPluginLookhouse video](https://img.youtube.com/vi/DO-Y1icyqoQ/maxresdefault.jpg)](https://youtu.be/DO-Y1icyqoQ)
 
